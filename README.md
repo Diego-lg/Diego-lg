@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diego-lg
-- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence. Sadly only html...ComputerVision)
+- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence. Sadly only...ComputerVision)
 - 🌱 I’m currently learning all of the above, (Keras, Tensorflow, Numpy, ComputerVision, Pandas, Astropy, Javascript, Ruby, etc)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
